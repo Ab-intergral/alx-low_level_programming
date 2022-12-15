@@ -1,11 +1,9 @@
 #include "main.h"
-
 /**
  * print_most_numbers - prints numbers 0 - 9
  * (neither 2 nor 4)
  * Return: no return.
- */
-
+ */:wq
 void print_most_numbers(void);
 {
 	int ch;
